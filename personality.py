@@ -18,7 +18,7 @@ db = mysql.connector.connect(
     host="personalityweb-server",
     user="pvpnhnsghy",
     password="70244T44QIVUWG8G$",
-    database="personality_test"
+    database="personalityweb-database"
 )
 
 # Set up logging
