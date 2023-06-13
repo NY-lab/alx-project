@@ -15,9 +15,9 @@ app = Flask(__name__)
 
 # Connect to the database
 db = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="g0thb01",
+    host="personalityweb-server",
+    user="pvpnhnsghy",
+    password="70244T44QIVUWG8G$",
     database="personality_test"
 )
 
