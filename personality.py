@@ -311,4 +311,4 @@ def run_personality_test():
 
 
 if __name__ == "__main__":
-    app.run("localhost", 6969, debug=True)
+    app.run("localhost", 80000, debug=True)
